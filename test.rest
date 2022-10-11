@@ -1,0 +1,9 @@
+GET  http://localhost:4000/
+
+###
+POST http://localhost:4000/
+Content-Type: application/json
+barrer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJkaXB0eWEiLCJlbWFpbCI6ImRpcHR5YUBnbWFpbC5jb20iLCJpYXQiOjE2NjU0NTk4NzEsImV4cCI6MTY2NTQ1OTkwMX0.T8ALq8YijenXC3reg1YFhDCSO1sDJlxwwYle1jT5zkc
+
+###
+POST http://localhost:4000/login
